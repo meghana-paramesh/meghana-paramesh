@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Software Engineer with 6 years of experience🔭<br>I am currently looking for Senior Software Engineer roles 
+With a cumulative experience of 7 years as a Senior Software Engineer, I have adeptly contributed to the design and
+development of several large scale applications distinguished for their exceptional scalability, availability and reliability.
 
 
 ## 🌐 Socials:
